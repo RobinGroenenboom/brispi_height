@@ -11,7 +11,6 @@ Run scripts in this order:
 4. **array_visualization.ipynb** (optional)
 5. **RF_models_training.ipynb**
 6. **CNN_models_training.ipynb**
-7. **model_visualization.ipynb**
 
 ## 1. image_retrieval.ipynb
 
