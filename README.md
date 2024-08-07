@@ -394,4 +394,4 @@ A CNN classification model is trained to classify plant heights into three categ
 
 By following these scripts in the specified order, you can efficiently process and prepare plant image data for the height prediction study. Each script is designed to handle specific tasks, from data retrieval and preprocessing to visualization, ensuring a streamlined workflow for the height prediction pipeline.
 
-For more detailed instructions and examples, refer to the full documentation provided within each notebook. If you encounter any issues or need further assistance, please consult the repository's [Issues](https://github.com/your-repository/issues) section or reach out to the project maintainers.
+For more detailed instructions and examples, refer to the full documentation provided within each notebook. If you encounter any issues or need further assistance, please reach out to the project maintainers at robin-boom@live.nl.
